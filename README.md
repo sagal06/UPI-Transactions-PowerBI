@@ -216,7 +216,7 @@ the different chart views.
 
 ## Page 1 – Line, Column Charts
 
-![Line, Column Charts](Dashboard/line, column chart.png)
+![Line, Column Charts](line, column chart.png)
 
 Contains:
 
@@ -229,7 +229,7 @@ Contains:
 
 ## Page 2 – Matrix Visuals
 
-![Matrix Visuals](Dashboard/matrix visuals.png)
+![Matrix Visuals](matrix visuals.png)
 
 Contains:
 
